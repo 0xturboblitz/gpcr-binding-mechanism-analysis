@@ -1,5 +1,7 @@
-This research aims to systematically analyze the binding mechanisms between various ligands and G protein-coupled receptors (GPCRs), focusing on the structural and molecular determinants that govern these interactions. The study will employ computational methods, molecular dynamics simulations, and experimental validation to characterize binding pocket configurations and ligand recognition patterns.
+# Concept
 
-The project will particularly examine the role of allosteric binding sites and conformational changes during ligand binding, with special attention to the influence of membrane environment on GPCR-ligand interactions. This understanding is crucial for developing more effective and selective therapeutic compounds targeting GPCRs.
+## Research Idea
 
-By combining structural biology approaches with functional assays, we aim to create a comprehensive framework for predicting and optimizing GPCR-ligand interactions, ultimately contributing to more efficient drug design strategies.
+Investigation of binding mechanisms and structural determinants for G protein-coupled receptor (GPCR) ligand interactions to enhance drug discovery applications.
+
+[This section will be enhanced by Oslo]
