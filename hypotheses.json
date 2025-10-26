@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Specific structural motifs and dynamic conformational changes in GPCR binding pockets determine ligand selectivity and binding affinity through distinct molecular recognition patterns."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
